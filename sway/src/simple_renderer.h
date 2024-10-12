@@ -8,7 +8,7 @@
 
 
 #define GL_GLEXT_PROTOTYPES
-#include "F:/P/You/Locker/ME/Work/SWE projects/Text Editor/rainbow_candy/te_code 3.0/dependencies installations/SDL2/SDL2 visual studio/include/SDL_opengl.h"
+#include "{your_own_path}/SDL_opengl.h"
 
 #include "./la.h"
 
