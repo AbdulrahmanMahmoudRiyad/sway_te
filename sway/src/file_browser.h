@@ -4,7 +4,7 @@
 #include "common.h"
 #include "free_glyph.h"
 
-#include "F:/P/You/Locker/ME/Work/SWE projects/Text Editor/rainbow_candy/te_code 3.0/dependencies installations/SDL2/SDL2 visual studio/include/SDL.h"
+#include "{your_own_path}/SDL.h"
 
 typedef struct {
     Files files;
