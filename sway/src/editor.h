@@ -7,7 +7,7 @@
 #include "simple_renderer.h"
 #include "lexer.h"
 
-#include "{your_own_paths}/include/SDL.h"
+#include "{your_own_path}/include/SDL.h"
 
 typedef struct {
     size_t begin;
